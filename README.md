@@ -15,13 +15,9 @@ FixTrack is a modern, transparent facility maintenance and issue tracking platfo
 ## 💻 Tech Stack
 
 **Frontend:**
-* [React](https://reactjs.org/) powered by [Vite](https://vitejs.dev/) for fast compilation.
-* [TypeScript](https://www.typescriptlang.org/) for robust type safety.
-* [Tailwind CSS](https://tailwindcss.com/) for responsive, custom utility-class styling (eliminating the need for heavy third-party UI frameworks).
 
-**Backend:**
-* [Node.js](https://nodejs.org/) runtime with an [Express.js](https://expressjs.com/) framework for building scalable REST APIs.
-* [PostgreSQL](https://www.postgresql.org/) for managing relational data (user authentication, ticket lifecycles, and staff rosters).
+HTML 5 & CSS 3
+
 
 ## 🚀 Getting Started
 
